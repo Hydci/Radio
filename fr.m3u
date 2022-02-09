@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0,SKYROCK
 https://icecast.skyrock.net/s/natio_aac_128k
+#EXTINF:0,DELTA FM
+https://deltafmdunkerque.ice.infomaniak.ch/deltafmdunkerque-high.mp3
+#EXTINF:0,RADIO 6
+https://radio6-dunkerque.ice.infomaniak.ch/radio6-dunkerque-128.mp3
 #EXTINF:0,MOUV
 https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8?id=radiofrance
 #EXTINF:0,MOUV RAP FRANCAIS
@@ -20,21 +24,61 @@ https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8?id=radiofran
 #EXTINF:0,NRJ
 http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3
 #EXTINF:0,NRJ Pure Hits Only
-http://scdn.nrjaudio.fm/adwz1/fr/31503/mp3_128.mp3?origine=fluxradios
+http://scdn.nrjaudio.fm/adwz1/fr/31503/mp3_128.mp3
+#EXTINF:0,NRJ URBAN HIT
+https://scdn.nrjaudio.fm/adwz1/fr/30099/aac_64.mp3
+#EXTINF:0,NRJ LE HIT YOUTUBE RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/57102/aac_64.mp3
+#EXTINF:0,NRJ FRESH RAP FR
+https://scdn.nrjaudio.fm/adwz1/fr/31555/aac_64.mp3
 #EXTINF:0,NRJ RAP
-https://scdn.nrjaudio.fm/adwz1/fr/56702/aac_64.mp3
+https://scdn.nrjaudio.fm/adwz1/fr/56702/mp3_128.mp3
 #EXTINF:0,NRJ RAP FR
-http://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=fluxradios
+http://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3
 #EXTINF:0,NRJ CLASSIC RAP FR
-http://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3?origine=fluxradios
+http://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3
 #EXTINF:0,NRJ RAP 2000
-https://scdn.nrjaudio.fm/fr/57451/aac_64.mp3
+https://scdn.nrjaudio.fm/adwz1/fr/57451/mp3_128.mp3
 #EXTINF:0,NRJ Les Hits De L'Été 2020
-http://scdn.nrjaudio.fm/adwz1/fr/57227/mp3_128.mp3?origine=fluxradios
+http://scdn.nrjaudio.fm/adwz1/fr/57227/mp3_128.mp3
 #EXTINF:0,NRJ MADE IN FRANCE
-http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=fluxradios
+http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3
 #EXTINF:0,NRJ Le Hit Youtube Rap FR
-http://scdn.nrjaudio.fm/adwz1/fr/57102/mp3_128.mp3?origine=fluxradios
+http://scdn.nrjaudio.fm/adwz1/fr/57102/mp3_128.mp3
+#EXTINF:0,NRJ GANSTA RAP
+https://scdn.nrjaudio.fm/adwz1/fr/31081/aac_64.mp3
+#EXTINF:0,NRJ RNB
+https://scdn.nrjaudio.fm/adwz1/fr/30011/aac_64.mp3
+#EXTINF:0,NRJ RNB FR
+https://scdn.nrjaudio.fm/adwz1/fr/30171/aac_64.mp3
+#EXTINF:0,NRJ CLASSIC RNB
+https://scdn.nrjaudio.fm/adwz1/fr/31095/aac_64.mp3
+#EXTINF:0,NRJ CLASSIC RNB FR
+https://scdn.nrjaudio.fm/adwz1/fr/30171/aac_64.mp3
+#EXTINF:0,NRJ HIPHOP RNB HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31559/aac_64.mp3
+#EXTINF:0,NRJ RAP US
+https://scdn.nrjaudio.fm/adwz1/fr/30061/aac_64.mp3
+#EXTINF:0,NRJ CLASSIC RAP US
+https://scdn.nrjaudio.fm/adwz1/fr/31093/aac_64.mp3
+#EXTINF:0,NRJ FUNKY
+https://scdn.nrjaudio.fm/adwz1/fr/31035/aac_64.mp3
+#EXTINF:0,NRJ AFRO HITS
+https://scdn.nrjaudio.fm/adwz1/fr/57770/aac_64.mp3
+#EXTINF:0,NRJ POUR LE SPORTS
+https://scdn.nrjaudio.fm/adwz1/fr/55513/aac_64.mp3
+#EXTINF:0,NRJ RUNNING HITS
+https://scdn.nrjaudio.fm/adwz1/fr/30057/aac_64.mp3
+#EXTINF:0,NRJ URBAN FITNESS
+https://scdn.nrjaudio.fm/adwz1/fr/30007/aac_64.mp3
+#EXTINF:0,NRJ ELECTRO FITNESS
+https://scdn.nrjaudio.fm/adwz1/fr/56808/aac_64.mp3
+#EXTINF:0,NRJ SPORT MOTIVATION
+https://scdn.nrjaudio.fm/adwz1/fr/57904/aac_64.mp3
+#EXTINF:0,NRJ SNOW HITS
+https://scdn.nrjaudio.fm/adwz1/fr/31511/aac_64.mp3
+#EXTINF:0,NRJ TOP STREAMING FRANCE
+https://scdn.nrjaudio.fm/adwz1/fr/57817/aac_64.mp3
 #EXTINF:0,NRJ THE WEEK-ND AAC/64
 https://scdn.nrjaudio.fm/audio1/fr/55767/aac_64.mp3
 #EXTINF:0,NRJ THE WEEK-ND MP3/128
