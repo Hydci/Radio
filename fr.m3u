@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0,SKYROCK
+https://icecast.skyrock.net/s/natio_aac_128k
+#EXTINF:0,MOUV
+https://stream.radiofrance.fr/mouv/mouv_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV RAP FRANCAIS
+https://stream.radiofrance.fr/mouvrapfr/mouvrapfr_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV 100% MIX
+https://stream.radiofrance.fr/mouv100p100mix/mouv100p100mix_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV CLASSICS
+https://stream.radiofrance.fr/mouvclassics/mouvclassics_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV KIDS'N FAMILY
+https://stream.radiofrance.fr/mouvkidsnfamily/mouvkidsnfamily_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV RAP US
+https://stream.radiofrance.fr/mouvrapus/mouvrapus_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV RNB
+https://stream.radiofrance.fr/mouvrnb/mouvrnb_hifi.m3u8?id=radiofrance
+#EXTINF:0,MOUV DANCEHALL
+https://stream.radiofrance.fr/mouvdancehall/mouvdancehall_hifi.m3u8?id=radiofrance
+#EXTINF:0,NRJ
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3
+#EXTINF:0,NRJ Pure Hits Only
+http://scdn.nrjaudio.fm/adwz1/fr/31503/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ RAP
+https://scdn.nrjaudio.fm/adwz1/fr/56702/aac_64.mp3
+#EXTINF:0,NRJ RAP FR
+http://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ CLASSIC RAP FR
+http://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ RAP 2000
+https://scdn.nrjaudio.fm/fr/57451/aac_64.mp3
+#EXTINF:0,NRJ Les Hits De L'Été 2020
+http://scdn.nrjaudio.fm/adwz1/fr/57227/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ MADE IN FRANCE
+http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ Le Hit Youtube Rap FR
+http://scdn.nrjaudio.fm/adwz1/fr/57102/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,NRJ THE WEEK-ND AAC/64
+https://scdn.nrjaudio.fm/audio1/fr/55767/aac_64.mp3
+#EXTINF:0,NRJ THE WEEK-ND MP3/128
+https://scdn.nrjaudio.fm/audio1/fr/55767/mp3_128.mp3
+#EXTINF:0,NRJ C'EST MARSEILLE BEBE
+https://scdn.nrjaudio.fm/adwz1/fr/57762/mp3_128.mp3
